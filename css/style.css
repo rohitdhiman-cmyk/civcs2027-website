@@ -1,0 +1,19 @@
+
+body{font-family:Arial,Helvetica,sans-serif;margin:0;background:#f7f7f7;color:#222}
+.topbar{background:#083b66;color:#fff;padding:10px 0;text-align:center;font-size:14px}
+.banner{background:#e8eef5;padding:25px;text-align:center;border-bottom:4px solid #083b66}
+.banner h1{margin:0;font-size:42px;color:#083b66}
+.banner h2{margin:10px auto;max-width:950px;font-size:28px;font-weight:600}
+.banner p{font-size:17px}
+nav{background:#083b66;text-align:center;padding:14px}
+nav a{color:#fff;text-decoration:none;padding:12px 14px;font-weight:bold}
+nav a:hover{background:#0d4d86}
+.container{max-width:1100px;margin:20px auto;background:#fff;padding:25px}
+.section-title{color:#083b66;border-bottom:2px solid #083b66;padding-bottom:8px}
+.notice{background:#fff7d6;padding:12px;border-left:5px solid #e6b800;margin:15px 0}
+.btn{display:inline-block;background:#083b66;color:#fff;text-decoration:none;padding:12px 18px;border-radius:4px}
+table{border-collapse:collapse;width:100%}
+th,td{border:1px solid #ccc;padding:10px}
+footer{background:#083b66;color:white;text-align:center;padding:20px;margin-top:30px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:15px}
+.card{background:#f1f5f9;padding:15px;border-left:4px solid #083b66}
